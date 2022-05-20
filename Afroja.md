@@ -4,7 +4,7 @@
 
 1. Cloudops
 
-2. QA
+2. AWS
 
 3.PM
 
